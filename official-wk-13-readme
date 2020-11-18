@@ -1,6 +1,6 @@
-#Homework: GitHub Fundamentals
+# Homework: GitHub Fundamentals
 
-##Background
+## Background
 To understand GitHub, you need to know the basics of version control.
 
 
@@ -31,7 +31,7 @@ When everything is synced, you will update the GitHub README file, which will ex
 
 You will also use your GitHub account for other activities in the course.
 
-##Required Files
+## Required Files
 
 Ansible YAML scripts from the week on cloud security.
 
@@ -51,13 +51,13 @@ Gather all of the network diagrams you created during the weeks on cloud securit
 
 
 
-##Goals
+## Goals
 
 
-##Create a GitHub repository for all of your files.
+## Create a GitHub repository for all of your files.
 
 
-##Copy all of your files into the repository and create a README explaining the repository.
+## Copy all of your files into the repository and create a README explaining the repository.
 
 
 
@@ -79,10 +79,10 @@ git push origin --set-upstream <-branch->
 
 
 
-##Instructions
+## Instructions
 
 
-##Create your GitHub repository.
+## Create your GitHub repository.
 
 Go to github.com and sign up for GitHub.
 Confirm your email address.
@@ -93,7 +93,7 @@ Click Create Repository.
 
 
 
-##Download your repository.
+## Download your repository.
 
 Click the green Clone or Download button on the right side.
 Copy the link.
@@ -105,7 +105,7 @@ Enter your GitHub username and password to complete the download.
 
 
 
-##Once you have the repository downloaded, copy your scripts and diagrams into it.
+## Once you have the repository downloaded, copy your scripts and diagrams into it.
 
 Create folders for Linux, Ansible and Diagrams.
 Copy your scripts and diagrams to the appropriate folder.
@@ -132,7 +132,7 @@ Go to github.com and confirm your content is there.
 
 
 
-##Add the README file you created during Day 3 of the project week.
+## Add the README file you created during Day 3 of the project week.
 
 Click on the README.md file in your GitHub repo.
 Click on the small pencil that reads Edit this file on hover.
