@@ -1,6 +1,6 @@
 # Monash
 ## Cybersecurity Project week 13
-This project should relay the essential workings of the project carried out in week 13 of the Monash Cybersecurity Bootcamp 2020. This repository contains,...
+This repository should serve as a record to relay the essential workings of the project carried out in week 13 of the Monash Cybersecurity Bootcamp 2020. This repository contains,...
 <ul><li>A Network Diagram depicting the project</li>
 <li>Yaml scripts used on containers in the project</li>
 <li>The Ansible configuration file used on the Provisioning Virtual Machine</li>
