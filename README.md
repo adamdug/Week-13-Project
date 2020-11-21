@@ -12,3 +12,5 @@ This repository should serve as a record to relay the essential workings of the 
 <li>2 Firewalls to service the network</li>
 <li>A load balancer for "Web1" and "Web2"</li>
 </ul>
+## Files used in other projects include:
+github.com/adamdug/Week4-Output-Files
